@@ -132,7 +132,7 @@ Basta digitar o número da opção desejada e seguir as instruções.
 
 ## Autores
 
-- Desenvolvido por [Seu Nome Aqui]
+- Desenvolvido por Agatha Wei
 
 ---
 
