@@ -76,7 +76,7 @@ O sistema permite o cadastro, listagem, atualização e exclusão de clientes, p
 
 1. **Clone o repositório:**
    ```sh
-   git clone <url-do-repositorio>
+   git clone https://github.com/Agathawei070/T1.git
    cd T1
    ```
 
